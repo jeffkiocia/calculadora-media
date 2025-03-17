@@ -1,7 +1,6 @@
 # calculadora-media
 Calculadora que calcula a média de notas e exibe se o aluno foi aprovado, em recuperação ou reprovado
 python
-CopiarEditar
 # Calculadora de Média de Notas
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))
@@ -17,7 +16,6 @@ print(f"Sua média é {media:.2f} - Status: {status}")
 	1. No terminal, dentro da pasta do projeto, digite:
 
 bash
-CopiarEditar
 git add .
 git commit -m "Adicionando o projeto Calculadora de Média"
 git push origin main
